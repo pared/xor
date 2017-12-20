@@ -5,9 +5,9 @@
 
 1. Neural network fed with xor gate characteristics:
 
-0 0 -> 0
-1 1 -> 0
-1 0 -> 1
+0 0 -> 0 |
+1 1 -> 0 |
+1 0 -> 1 |
 0 1 -> 1
 
 2. Feeding over and over again with same input should result in NN adjusting to XOR gate characteristics
